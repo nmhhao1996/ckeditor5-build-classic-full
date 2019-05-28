@@ -1,0 +1,14 @@
+node_modules/
+package-lock.json
+yarn.lock
+sample/
+src/
+tests/
+webpack.config.js
+CONTRIBUTING.md
+CHANGELOG.md
+CONTRIBUTING.md
+.github
+.editorconfig
+.eslintrc.js
+.travis.yml
